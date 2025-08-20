@@ -39,6 +39,49 @@ A comprehensive project demonstrating all key concepts of React Router DOM v6 wi
 **⏱️ Time to Complete:** 2-3 hours  
 **🌐 Live Demo:** `http://localhost:5173` (when running)
 
+### 🪝 [React Hooks Learning](./hooks/)
+**Status: 🔄 In Progress**
+
+A comprehensive collection of projects demonstrating React hooks with practical examples and performance optimizations.
+
+#### 🧠 [useMemo Hook](./hooks/useMemo/)
+**Status: ✅ Complete**
+
+Learn performance optimization with memoization, expensive calculations, and reference equality.
+
+**🎯 What You'll Learn:**
+- When and how to use useMemo for performance
+- Expensive calculation optimization
+- Reference equality and object recreation prevention
+- Common pitfalls and best practices
+- Real-world examples with performance measurements
+
+**🛠️ Tech Stack:**
+- React 18
+- Vite (Build tool)
+- Performance measurement utilities
+- Interactive examples
+
+**📊 Complexity:** Intermediate  
+**⏱️ Time to Complete:** 1-2 hours
+
+#### 🔄 **Coming Next:**
+- **useCallback** - Memoizing functions
+- **useEffect** - Side effects and cleanup
+- **useReducer** - Complex state management
+- **Custom Hooks** - Reusable logic patterns
+
+**🛠️ Tech Stack:**
+- React 18
+- React Router DOM v6
+- Vite (Build tool)
+- Tailwind CSS (Styling)
+- JavaScript ES6+
+
+**📊 Complexity:** Intermediate  
+**⏱️ Time to Complete:** 2-3 hours  
+**🌐 Live Demo:** `http://localhost:5173` (when running)
+
 ---
 
 ## 🚀 Quick Start
@@ -120,8 +163,13 @@ A comprehensive project demonstrating all key concepts of React Router DOM v6 wi
 | Project | Status | Completion | Concepts Covered |
 |---------|--------|------------|------------------|
 | React Router DOM | ✅ Complete | 100% | Routing, Navigation, Performance |
+| **Hooks Learning** | 🔄 In Progress | 20% | **React Hooks Mastery** |
+| └── useMemo | ✅ Complete | 100% | Memoization, Performance |
+| └── useCallback | 🔄 Planned | 0% | Function memoization |
+| └── useEffect | 🔄 Planned | 0% | Side effects, cleanup |
+| └── useReducer | 🔄 Planned | 0% | Complex state management |
+| └── Custom Hooks | 🔄 Planned | 0% | Reusable logic patterns |
 | State Management | 🔄 Planned | 0% | Redux, Context, Zustand |
-| Custom Hooks | 🔄 Planned | 0% | Hook patterns, Reusability |
 | Testing | 🔄 Planned | 0% | Jest, RTL, E2E |
 | Performance | 🔄 Planned | 0% | Optimization, Profiling |
 
